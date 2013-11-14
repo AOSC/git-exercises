@@ -14,6 +14,7 @@
 ## [出席者一覧]
 
   - [smagch](https://github.com/smagch)
+  - [SamuraiT]h(https://github.com/SamuraiT)
 
 ## 使うかもしれないコマンド
 
