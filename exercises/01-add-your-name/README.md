@@ -15,6 +15,7 @@
 
   - [smagch](https://github.com/smagch)
   - [masaru99](https://github.com/masaru99)
+  - [waigania13](https://github.com/waigania13)
 
 ## 使うかもしれないコマンド
 

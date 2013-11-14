@@ -36,4 +36,8 @@
   れの番号のレファレンスをつけるようにする。詳しくは、公式ブログの[Issue2.0]を参照されたし
 
 [日本語版Pro Git]: http://git-scm.com/book/ja
-[Issue2.0]: https://github.com/blog/831-issues-2-0-the-next-generation
+
+addddd
+
+
+aaaa
