@@ -14,6 +14,7 @@
 ## [出席者一覧]
 
   - [smagch](https://github.com/smagch)
+  - [waigania13](https://github.com/waigania13)
 
 ## 使うかもしれないコマンド
 
