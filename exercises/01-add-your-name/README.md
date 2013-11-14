@@ -14,7 +14,13 @@
 ## [出席者一覧]
 
   - [smagch](https://github.com/smagch)
+<<<<<<< HEAD
   - [SamuraiT]h(https://github.com/SamuraiT)
+=======
+  - [ykato](https://github.com/ykato)
+  - [masaru99](https://github.com/masaru99)
+  - [waigania13](https://github.com/waigania13)
+>>>>>>> 6f9d8a3cfe316f96f5f1a9e806a25845239dc10a
 
 ## 使うかもしれないコマンド
 
