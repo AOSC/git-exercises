@@ -14,6 +14,7 @@
 ## [出席者一覧]
 
   - [smagch](https://github.com/smagch)
+  - [ykato](https://github.com/ykato)
 
 ## 使うかもしれないコマンド
 
