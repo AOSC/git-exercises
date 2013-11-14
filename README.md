@@ -7,12 +7,12 @@ test2222222
 
   詳細はconnpassにて<http://connpass.com/event/3804/>
 
-  [日本語版Pro Git]のハンズオンと、Githubを使った練習問題を解く。お題はすべてこのレポジトリ
+  [日本語版Pro Git]!のハンズオンと、Githubを使った練習問題を解く。お題はすべてこのレポジトリ
   のexercisesディレクトリ下に置いてあるので、参照されたし。セッションの予定時間は２時間。
 
 ## 使うコマンド
 
-第１回目なので、なるべく基本的なコマンド類のみ反復して練習できるような内容にする
+第１回目なので、なるべく基本的なコマンド類のみ反復して練習できるような内容にするsaaa
 
   - `git status`
   - `git add`
@@ -41,4 +41,8 @@ test2222222
   れの番号のレファレンスをつけるようにする。詳しくは、公式ブログの[Issue2.0]を参照されたし
 
 [日本語版Pro Git]: http://git-scm.com/book/ja
-[Issue2.0]: https://github.com/blog/831-issues-2-0-the-next-generation
+
+addddd
+
+
+aaaa
