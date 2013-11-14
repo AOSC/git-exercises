@@ -14,6 +14,7 @@
 ## [出席者一覧]
 
   - [smagch](https://github.com/smagch)
+  - [masaru99](https://github.com/masaru99)
 
 ## 使うかもしれないコマンド
 
