@@ -14,7 +14,7 @@
 ## [出席者一覧]
 
   - [smagch](https://github.com/smagch)
-  - [SamuraiT]h(https://github.com/SamuraiT)
+  - [SamuraiT](https://github.com/SamuraiT)
   - [ykato](https://github.com/ykato)
   - [masaru99](https://github.com/masaru99)
   - [waigania13](https://github.com/waigania13)
